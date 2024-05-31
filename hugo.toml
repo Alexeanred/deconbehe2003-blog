@@ -1,0 +1,4 @@
+baseURL = 'https://Alexeanred.github.io/deconbehe2003-blog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'paper'
